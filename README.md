@@ -17,6 +17,6 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nency-vadadoriya-3969052ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nency-vadadoriya-3969052ba/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEyqL-IBB92GzADiEZNl6viQSSOC76gYOXo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vadadoriyanency8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
