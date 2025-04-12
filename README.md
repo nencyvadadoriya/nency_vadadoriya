@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250px">
+  <img src="node-js\Full-Stack-Developer.jpg" width="250px">
 </p>
