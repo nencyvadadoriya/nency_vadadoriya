@@ -23,5 +23,5 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/image.png" alt="Full Stack Development" width="700"/>
+  <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" alt="Full Stack Development" width="700"/>
 </p>
