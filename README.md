@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="node-js\Full-Stack-Developer.jpg" width="250px">
+  <img src="C:\Users\NANCY\Desktop\node-js\Full-Stack-Developer.jpg" width="250px">
 </p>
