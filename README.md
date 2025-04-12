@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm  Nency Vadadoriya </h1>
-<h3 align="center">🚀 A passionate Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+cool+projects+with+MERN+Stack;Always+learning+something+new;Let%27s+connect+and+collab!&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=A+passionate+Full+Stack+Developer;Building+cool+projects+with+MERN+Stack;Always+learning+something+new;Let%27s+connect+and+collab!&center=true&width=500&height=45" />
 </p>
 
 <p align="center">
