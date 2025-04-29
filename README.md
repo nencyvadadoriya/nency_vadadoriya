@@ -23,5 +23,5 @@
 
 
 <p align="center">
-  <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" alt="Full Stack Development" width="700"/>
+  <img src="[https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg](https://wallpapercave.com/wp/wp9641888.jpg)" alt="Full Stack Development" width="700"/>
 </p>
