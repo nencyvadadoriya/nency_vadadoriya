@@ -23,6 +23,6 @@
 
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/banner-tipe-full-stack-developer_980716-272.jpg?w=2000" alt="Full Stack Development" width="700"/>
+  <img src="https://img.freepik.com/premium-photo/banner-tipe-full-stack-developer_980716-272.jpg?w=2000" alt="Full Stack Development" width="400"/>
 </p>
 
