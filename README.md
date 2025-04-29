@@ -20,9 +20,18 @@
   <a href=["https://www.linkedin.com/in/nency-vadadoriya-3969052ba/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAEyqL-IBB92GzADiEZNl6viQSSOC76gYOXo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white](https://wallpapercave.com/wp/wp9641888.jpg)" /></a>
   <a href="mailto:vadadoriyanency8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
+👩‍💻 About Me
+Hi! I'm Nency Vadadoriya, currently pursuing a Full Stack Web Development course where I'm learning to build complete web applications using technologies like HTML, CSS, JavaScript, Node.js, Express, MongoDB, and React.
 
+🔧 Current Focus:
+Creating real-world projects like a movie site, admin dashboard, and dynamic content-based websites.
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/banner-tipe-full-stack-developer_980716-272.jpg?w=2000" alt="Full Stack Development" width="400"/>
-</p>
+💡 Skills I'm Growing:
+JavaScript, REST APIs, EJS, CRUD operations, authentication using cookies and sessions, and front-end/back-end integration.
+
+🚀 What Drives Me:
+I love building things from scratch and learning through hands-on experience. My goal is to become a confident and job-ready full stack developer.
+
+🌱 Future Goal:
+To work with a collaborative tech team where I can grow, contribute, and build scalable, user-friendly applications.
 
